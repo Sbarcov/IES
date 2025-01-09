@@ -1,0 +1,13 @@
+Listado de Consulas
+
+15/05/2023 12:00:00 a. m.  Fido  Cirugía  Cirugía de castración  12000.00
+
+01/03/2023 12:00:00 a. m.  Fido  Vacunación  Vacuna antirrábica  5000.00
+
+20/03/2023 12:00:00 a. m.  Fido  Consulta dental  Limpieza dental  4000.00
+
+20/04/2023 12:00:00 a. m.  Fido  Chequeo general  Chequeo anual  3000.00
+
+Cant. de consultas:  4
+Total Costos:  24000
+Promedio:  6000

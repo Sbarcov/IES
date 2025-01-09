@@ -1,0 +1,22 @@
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\bin\Debug\Mascotas Felices.exe.config
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\bin\Debug\Mascotas Felices.exe
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\bin\Debug\Mascotas Felices.pdb
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas_Felices.AcercaDe.resources
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas_Felices.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.exe
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.pdb
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas_Felices.VentanaPrincipal.resources
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\bin\Debug\Mascotas Felices.exe.config
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\bin\Debug\Mascotas Felices.exe
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\bin\Debug\Mascotas Felices.pdb
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas_Felices.AcercaDe.resources
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas_Felices.VentanaPrincipal.resources
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas_Felices.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.exe
+C:\Users\Sebastian\Desktop\IES\Segundo Semestre\Laboratorio 2\parcial\211202426213_20286868\PARCIAL DISTANCIA-B\Nueva carpeta\Mascotas Felices\Mascotas Felices\obj\Debug\Mascotas Felices.pdb

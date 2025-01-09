@@ -1,0 +1,13 @@
+Listado de Consulas
+
+25/05/2023 12:00:00 a. m.  Lola  Consulta dental  Limpieza dental  4000.00
+
+10/03/2023 12:00:00 a. m.  Lola  Cirugía  Cirugía esterilización  10000.00
+
+05/04/2023 12:00:00 a. m.  Lola  Chequeo general  Chequeo anual  3000.00
+
+01/05/2023 12:00:00 a. m.  Lola  Emergencia  Tratamiento por fractura  9000.00
+
+Cant. de consultas:  4
+Total Costos:  26000
+Promedio:  6500
